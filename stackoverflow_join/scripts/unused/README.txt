@@ -1,0 +1,1 @@
+firstPassScraper_server.py is a Wikipedia webscraper for category data.  Currently unused, since category data is not used.
